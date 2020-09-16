@@ -9,6 +9,6 @@ editor_options:
 ---
 
 Welcome to my research website. 
-I'm part of the X. laevis group. Have you meet my teammate: [Shalise](https://ldyer451.github.io/myproject/)
+I'm part of the X. laevis group. Have you meet my teammate: [Luke](https://ldyer451.github.io/myproject/)
 
 * [Teeth growth analysis](teeth.html)
